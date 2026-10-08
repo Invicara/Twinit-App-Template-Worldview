@@ -1,0 +1,63 @@
+{
+  "Template Name": "sample-airports",
+  "Template Version": "1.2.0",
+  "setupScript": "custom/setupSampleAirports.mjs",
+  "scripts": [
+    {
+      "_name": "gateOperations",
+      "_shortName": "gateOperations",
+      "_description": "DTW McNamara gate status and operations picture",
+      "_userType": "gate-ops-script"
+    }
+  ],
+  "mcpTools": [
+    {
+      "name": "GetGate",
+      "file": "GetGate.json",
+      "ifExists": "update"
+    },
+    {
+      "name": "GetGateOperations",
+      "file": "GetGateOperations.json",
+      "ifExists": "update"
+    },
+    {
+      "name": "GetGateOperationsSummary",
+      "file": "GetGateOperationsSummary.json",
+      "ifExists": "update"
+    },
+    {
+      "name": "QueryGates",
+      "file": "QueryGates.json",
+      "ifExists": "update"
+    }
+  ],
+  "namedUserCollections": [
+    {
+      "_name": "Gates",
+      "_shortName": "gates",
+      "_description": "Airport gate locations for World View operations",
+      "_userType": "world_view_gates"
+    }
+  ],
+  "itemsToCreate": [
+    {
+      "collectionName": "Sites",
+      "items": [
+        {
+          "file": "us-airports.json",
+          "ifExists": "add"
+        }
+      ]
+    },
+    {
+      "collectionName": "Gates",
+      "items": [
+        {
+          "file": "mcnamara-gates.json",
+          "ifExists": "add"
+        }
+      ]
+    }
+  ]
+}

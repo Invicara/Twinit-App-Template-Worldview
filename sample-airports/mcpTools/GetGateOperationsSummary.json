@@ -1,0 +1,22 @@
+{
+  "_description": "Get counts of DTW McNamara gates by operations status: open, inbound, on block, turnaround, boarding, delayed, departing, and closed.",
+  "_script": {
+    "_userType": "gate-ops-script",
+    "_scriptName": "getGateOperationsSummary"
+  },
+  "_schema": {
+    "type": "object",
+    "properties": {
+      "airport": {
+        "type": "string",
+        "description": "Airport IATA code. Only DTW is supported.",
+        "default": "DTW"
+      },
+      "concourse": {
+        "type": "string",
+        "description": "Limit the counts to one concourse letter: A, B, or C."
+      }
+    },
+    "additionalProperties": false
+  }
+}

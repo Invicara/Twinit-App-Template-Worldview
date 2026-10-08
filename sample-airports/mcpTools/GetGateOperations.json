@@ -1,0 +1,31 @@
+{
+  "_description": "Get current McNamara terminal gate operations at DTW, including status, assigned flight, and times. Optionally filter by concourse or status.",
+  "_script": {
+    "_userType": "gate-ops-script",
+    "_scriptName": "getGateOperations"
+  },
+  "_schema": {
+    "type": "object",
+    "properties": {
+      "airport": {
+        "type": "string",
+        "description": "Airport IATA code. Only DTW is supported.",
+        "default": "DTW"
+      },
+      "concourse": {
+        "type": "string",
+        "description": "Filter by concourse letter: A, B, or C."
+      },
+      "status": {
+        "type": "string",
+        "description": "Filter by gate status.",
+        "enum": ["OPEN", "INBOUND", "ON_BLOCK", "TURNAROUND", "BOARDING", "DELAYED", "DEPARTING", "CLOSED"]
+      },
+      "delayedOnly": {
+        "type": "boolean",
+        "description": "If true, return only gates with a delay."
+      }
+    },
+    "additionalProperties": false
+  }
+}

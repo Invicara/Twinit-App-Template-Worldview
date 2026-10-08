@@ -1,0 +1,23 @@
+{
+  "_description": "Get current operations for a single DTW McNamara gate by id (for example A17 or B12), including status, assigned flight, and arrival/departure times.",
+  "_script": {
+    "_userType": "gate-ops-script",
+    "_scriptName": "getGate"
+  },
+  "_schema": {
+    "type": "object",
+    "properties": {
+      "gateId": {
+        "type": "string",
+        "description": "Gate identifier such as A17, B8, or C15."
+      },
+      "airport": {
+        "type": "string",
+        "description": "Airport IATA code. Only DTW is supported.",
+        "default": "DTW"
+      }
+    },
+    "required": ["gateId"],
+    "additionalProperties": false
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_description": "Search DTW McNamara gate operations by concourse, status, flight ident, origin, or destination.",
+  "_script": {
+    "_userType": "gate-ops-script",
+    "_scriptName": "queryGates"
+  },
+  "_schema": {
+    "type": "object",
+    "properties": {
+      "airport": {
+        "type": "string",
+        "description": "Airport IATA code. Only DTW is supported.",
+        "default": "DTW"
+      },
+      "concourse": {
+        "type": "string",
+        "description": "Concourse letter: A, B, or C."
+      },
+      "status": {
+        "type": "string",
+        "description": "Gate status to match.",
+        "enum": ["OPEN", "INBOUND", "ON_BLOCK", "TURNAROUND", "BOARDING", "DELAYED", "DEPARTING", "CLOSED"]
+      },
+      "flightIdent": {
+        "type": "string",
+        "description": "Flight ident substring such as DL1234."
+      },
+      "origin": {
+        "type": "string",
+        "description": "Origin IATA code such as ATL."
+      },
+      "destination": {
+        "type": "string",
+        "description": "Destination IATA code such as LAX."
+      },
+      "delayedOnly": {
+        "type": "boolean",
+        "description": "If true, return only gates with a delay."
+      },
+      "limit": {
+        "type": "integer",
+        "description": "Maximum number of gates to return (1-200).",
+        "default": 50
+      }
+    },
+    "additionalProperties": false
+  }
+}

@@ -1,0 +1,332 @@
+[
+  {
+    "_name": "ATL — Hartsfield–Jackson Atlanta International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 33.6367 },
+      "longitude": { "dName": "Longitude", "val": -84.4279 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "AUS — Austin–Bergstrom International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 30.1945 },
+      "longitude": { "dName": "Longitude", "val": -97.6699 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "BNA — Nashville International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 36.1245 },
+      "longitude": { "dName": "Longitude", "val": -86.6782 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "BOS — Logan International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 42.3629 },
+      "longitude": { "dName": "Longitude", "val": -71.0064 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "BWI — Baltimore/Washington International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 39.1757 },
+      "longitude": { "dName": "Longitude", "val": -76.669 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "CLT — Charlotte Douglas International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 35.2132 },
+      "longitude": { "dName": "Longitude", "val": -80.9514 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "DCA — Ronald Reagan Washington National",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 38.8514 },
+      "longitude": { "dName": "Longitude", "val": -77.0377 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "DEN — Denver International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 39.8617 },
+      "longitude": { "dName": "Longitude", "val": -104.6732 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "DFW — Dallas/Fort Worth International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 32.8972 },
+      "longitude": { "dName": "Longitude", "val": -97.0377 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "DTW — Detroit Metropolitan",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 42.2079 },
+      "longitude": { "dName": "Longitude", "val": -83.3565 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "EWR — Newark Liberty International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 40.6925 },
+      "longitude": { "dName": "Longitude", "val": -74.1687 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "FLL — Fort Lauderdale–Hollywood International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 26.0717 },
+      "longitude": { "dName": "Longitude", "val": -80.1497 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "HNL — Daniel K. Inouye International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 21.3178 },
+      "longitude": { "dName": "Longitude", "val": -157.9203 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "IAD — Dulles International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 38.9475 },
+      "longitude": { "dName": "Longitude", "val": -77.4599 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "IAH — George Bush Intercontinental",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 29.9844 },
+      "longitude": { "dName": "Longitude", "val": -95.3414 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "JFK — John F. Kennedy International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 40.6399 },
+      "longitude": { "dName": "Longitude", "val": -73.7787 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "LAS — Harry Reid International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 36.08 },
+      "longitude": { "dName": "Longitude", "val": -115.1522 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "LAX — Los Angeles International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 33.9425 },
+      "longitude": { "dName": "Longitude", "val": -118.408 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "LGA — LaGuardia",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 40.7772 },
+      "longitude": { "dName": "Longitude", "val": -73.8726 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "MCO — Orlando International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 28.4294 },
+      "longitude": { "dName": "Longitude", "val": -81.309 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "MIA — Miami International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 25.7954 },
+      "longitude": { "dName": "Longitude", "val": -80.2901 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "MSP — Minneapolis–Saint Paul International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 44.882 },
+      "longitude": { "dName": "Longitude", "val": -93.2218 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "ORD — O'Hare International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 41.9769 },
+      "longitude": { "dName": "Longitude", "val": -87.9081 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "PHL — Philadelphia International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 39.8721 },
+      "longitude": { "dName": "Longitude", "val": -75.2407 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "PHX — Phoenix Sky Harbor International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 33.4343 },
+      "longitude": { "dName": "Longitude", "val": -112.0116 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "SAN — San Diego International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 32.7336 },
+      "longitude": { "dName": "Longitude", "val": -117.1897 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "SEA — Seattle–Tacoma International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 47.4499 },
+      "longitude": { "dName": "Longitude", "val": -122.3118 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "SFO — San Francisco International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 37.6188 },
+      "longitude": { "dName": "Longitude", "val": -122.3754 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "SLC — Salt Lake City International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 40.7884 },
+      "longitude": { "dName": "Longitude", "val": -111.9778 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  },
+  {
+    "_name": "TPA — Tampa International",
+    "_userType": "world_view_site",
+    "properties": {
+      "latitude": { "dName": "Latitude", "val": 27.9755 },
+      "longitude": { "dName": "Longitude", "val": -82.5332 },
+      "heightMeters": { "dName": "Altitude", "val": 3000 },
+      "headingDegrees": { "dName": "Heading", "val": 0 },
+      "pitchDegrees": { "dName": "Pitch", "val": -90 }
+    }
+  }
+]

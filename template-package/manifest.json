@@ -1,0 +1,57 @@
+{
+  "Template Name": "World View",
+  "Template Version": "1.10.0",
+  "setupScript": "custom/setupWorldView.mjs",
+  "scripts": [
+    {
+      "_name": "worldViewApi",
+      "_shortName": "worldViewApi",
+      "_description": "Object model scripts for World View OMAPI endpoints",
+      "_userType": "omapi-script"
+    },
+    {
+      "_name": "fetchSpaceCatalog",
+      "_shortName": "fetchSpaceCatalog",
+      "_description": "Workflow script: fetch CelesTrak stations into the Space Catalog",
+      "_userType": "workflow-script"
+    }
+  ],
+  "configs": [],
+  "omapiConfig": [
+    {
+      "_name": "World View API",
+      "_shortName": "worldviewapi",
+      "_description": "World View orbital recon API"
+    }
+  ],
+  "userGroups": [
+    {
+      "_name": "World View Users",
+      "_shortName": "wv-users",
+      "_description": "Users who can sign in and operate the World View globe",
+      "permissions": {
+        "accessAll": true
+      }
+    }
+  ],
+  "userGroupToUserConfig": [],
+  "namedUserCollections": [
+    {
+      "_name": "Sites",
+      "_shortName": "sites",
+      "_description": "Saved World View locations",
+      "_userType": "world_view_sites"
+    },
+    {
+      "_name": "Space Catalog",
+      "_shortName": "space-catalog",
+      "_description": "Cached CelesTrak stations GP snapshots",
+      "_userType": "world_view_space_catalog"
+    }
+  ],
+  "itemsToCreate": [],
+  "files": [],
+  "agents": [],
+  "teams": [],
+  "custom": {}
+}

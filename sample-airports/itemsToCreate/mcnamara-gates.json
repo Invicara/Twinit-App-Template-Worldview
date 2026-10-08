@@ -1,0 +1,1766 @@
+[
+  {
+    "_name": "A1",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.202603
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.362101
+      }
+    }
+  },
+  {
+    "_name": "A2",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.202686
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.362312
+      }
+    }
+  },
+  {
+    "_name": "A3",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.202612
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.361846
+      }
+    }
+  },
+  {
+    "_name": "A4",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.202806
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.362453
+      }
+    }
+  },
+  {
+    "_name": "A5",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.202802
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.361716
+      }
+    }
+  },
+  {
+    "_name": "A6",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.202937
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.362451
+      }
+    }
+  },
+  {
+    "_name": "A7",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.203112
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.361473
+      }
+    }
+  },
+  {
+    "_name": "A8",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.203272
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.362294
+      }
+    }
+  },
+  {
+    "_name": "A9",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.20344
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.361284
+      }
+    }
+  },
+  {
+    "_name": "A10",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.203654
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.361941
+      }
+    }
+  },
+  {
+    "_name": "A11",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.203758
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360985
+      }
+    }
+  },
+  {
+    "_name": "A12",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.20402
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.361652
+      }
+    }
+  },
+  {
+    "_name": "A15",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.204062
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.36079
+      }
+    }
+  },
+  {
+    "_name": "A17",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.204377
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360543
+      }
+    }
+  },
+  {
+    "_name": "A18",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.204287
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.361371
+      }
+    }
+  },
+  {
+    "_name": "A19",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.204656
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360313
+      }
+    }
+  },
+  {
+    "_name": "A20",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.204787
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.36115
+      }
+    }
+  },
+  {
+    "_name": "A21",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.205049
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360071
+      }
+    }
+  },
+  {
+    "_name": "A23",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.205337
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.359846
+      }
+    }
+  },
+  {
+    "_name": "A24",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.205335
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360613
+      }
+    }
+  },
+  {
+    "_name": "A25",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.205678
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.359613
+      }
+    }
+  },
+  {
+    "_name": "A27",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.205982
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.359404
+      }
+    }
+  },
+  {
+    "_name": "A28",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.20593
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360167
+      }
+    }
+  },
+  {
+    "_name": "A29",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.206269
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.35916
+      }
+    }
+  },
+  {
+    "_name": "A30",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.20642
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.359782
+      }
+    }
+  },
+  {
+    "_name": "A31",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.206556
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.358962
+      }
+    }
+  },
+  {
+    "_name": "A33",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.206877
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.358713
+      }
+    }
+  },
+  {
+    "_name": "A35",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.207144
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.358507
+      }
+    }
+  },
+  {
+    "_name": "A38",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.208066
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.358556
+      }
+    }
+  },
+  {
+    "_name": "A40",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.208645
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.358104
+      }
+    }
+  },
+  {
+    "_name": "A43",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.209106
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.357007
+      }
+    }
+  },
+  {
+    "_name": "A45",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.209406
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.356819
+      }
+    }
+  },
+  {
+    "_name": "A46",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.209237
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.357678
+      }
+    }
+  },
+  {
+    "_name": "A47",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.209748
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.35653
+      }
+    }
+  },
+  {
+    "_name": "A49",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.210009
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.356343
+      }
+    }
+  },
+  {
+    "_name": "A50",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.209792
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.357264
+      }
+    }
+  },
+  {
+    "_name": "A51",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.210292
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.356105
+      }
+    }
+  },
+  {
+    "_name": "A53",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.210609
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.35589
+      }
+    }
+  },
+  {
+    "_name": "A54",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.210339
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.356868
+      }
+    }
+  },
+  {
+    "_name": "A55",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.210922
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.355686
+      }
+    }
+  },
+  {
+    "_name": "A56",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.210893
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.356464
+      }
+    }
+  },
+  {
+    "_name": "A57",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.211264
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.355478
+      }
+    }
+  },
+  {
+    "_name": "A59",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.211588
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.355243
+      }
+    }
+  },
+  {
+    "_name": "A60",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.211483
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.355994
+      }
+    }
+  },
+  {
+    "_name": "A61",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.211887
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.355009
+      }
+    }
+  },
+  {
+    "_name": "A63",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.212172
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.354778
+      }
+    }
+  },
+  {
+    "_name": "A64",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.212088
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.355815
+      }
+    }
+  },
+  {
+    "_name": "A65",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.213127
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.353989
+      }
+    }
+  },
+  {
+    "_name": "A66",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.212669
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.355395
+      }
+    }
+  },
+  {
+    "_name": "A67",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.213453
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.353781
+      }
+    }
+  },
+  {
+    "_name": "A68",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.213117
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.354828
+      }
+    }
+  },
+  {
+    "_name": "A69",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.213755
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.353636
+      }
+    }
+  },
+  {
+    "_name": "A70",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.213606
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.354495
+      }
+    }
+  },
+  {
+    "_name": "A71",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.214078
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.35336
+      }
+    }
+  },
+  {
+    "_name": "A72",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.214015
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.354355
+      }
+    }
+  },
+  {
+    "_name": "A73",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.214388
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.353111
+      }
+    }
+  },
+  {
+    "_name": "A74",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.214288
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.354098
+      }
+    }
+  },
+  {
+    "_name": "A75",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.214591
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.353047
+      }
+    }
+  },
+  {
+    "_name": "A76",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.214546
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.353997
+      }
+    }
+  },
+  {
+    "_name": "A77",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.214619
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.35338
+      }
+    }
+  },
+  {
+    "_name": "A78",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "A"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.214611
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.353673
+      }
+    }
+  },
+  {
+    "_name": "B1",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "B"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.209251
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.361598
+      }
+    }
+  },
+  {
+    "_name": "B2",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "B"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.209556
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.361899
+      }
+    }
+  },
+  {
+    "_name": "B3",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "B"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.208975
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.361791
+      }
+    }
+  },
+  {
+    "_name": "B4",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "B"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.209313
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.362094
+      }
+    }
+  },
+  {
+    "_name": "B5",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "B"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.208676
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.362012
+      }
+    }
+  },
+  {
+    "_name": "B6",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "B"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.209038
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.362299
+      }
+    }
+  },
+  {
+    "_name": "B8",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "B"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.208724
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.362511
+      }
+    }
+  },
+  {
+    "_name": "B10",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "B"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.208377
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.362841
+      }
+    }
+  },
+  {
+    "_name": "B11",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "B"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.208001
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.362482
+      }
+    }
+  },
+  {
+    "_name": "B12",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "B"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.208091
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.362999
+      }
+    }
+  },
+  {
+    "_name": "B15",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "B"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.207755
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.362665
+      }
+    }
+  },
+  {
+    "_name": "B16",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "B"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.207831
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.363211
+      }
+    }
+  },
+  {
+    "_name": "B18",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "B"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.207449
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.363492
+      }
+    }
+  },
+  {
+    "_name": "B19",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "B"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.207374
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.362929
+      }
+    }
+  },
+  {
+    "_name": "B20",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "B"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.207136
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.363688
+      }
+    }
+  },
+  {
+    "_name": "B21",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "B"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.207051
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.363217
+      }
+    }
+  },
+  {
+    "_name": "C1",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.209471
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.361153
+      }
+    }
+  },
+  {
+    "_name": "C2",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.209772
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.361815
+      }
+    }
+  },
+  {
+    "_name": "C4",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.210002
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.361682
+      }
+    }
+  },
+  {
+    "_name": "C5",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.209806
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360915
+      }
+    }
+  },
+  {
+    "_name": "C6",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.210208
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.361463
+      }
+    }
+  },
+  {
+    "_name": "C7",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.210017
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360768
+      }
+    }
+  },
+  {
+    "_name": "C9",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.210357
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360815
+      }
+    }
+  },
+  {
+    "_name": "C10",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.210639
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.361073
+      }
+    }
+  },
+  {
+    "_name": "C11",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.21049
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360707
+      }
+    }
+  },
+  {
+    "_name": "C12",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.210769
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360978
+      }
+    }
+  },
+  {
+    "_name": "C15",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.210693
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360556
+      }
+    }
+  },
+  {
+    "_name": "C16",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.211264
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360614
+      }
+    }
+  },
+  {
+    "_name": "C18",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.211401
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360515
+      }
+    }
+  },
+  {
+    "_name": "C19",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.211114
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360233
+      }
+    }
+  },
+  {
+    "_name": "C20",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.21179
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360218
+      }
+    }
+  },
+  {
+    "_name": "C21",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.211311
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360089
+      }
+    }
+  },
+  {
+    "_name": "C22",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.211893
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.360152
+      }
+    }
+  },
+  {
+    "_name": "C23",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.21164
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.359863
+      }
+    }
+  },
+  {
+    "_name": "C24",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.210595
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.3619
+      }
+    }
+  },
+  {
+    "_name": "C25",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.211746
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.359766
+      }
+    }
+  },
+  {
+    "_name": "C27",
+    "_userType": "world_view_gate",
+    "properties": {
+      "concourse": {
+        "dName": "Concourse",
+        "val": "C"
+      },
+      "latitude": {
+        "dName": "Latitude",
+        "val": 42.211943
+      },
+      "longitude": {
+        "dName": "Longitude",
+        "val": -83.359627
+      }
+    }
+  }
+]

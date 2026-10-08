@@ -1,0 +1,182 @@
+[
+  {
+    "endpoints": {
+      "world-view": {
+        "paths": [
+          {
+            "path": "/world-view",
+            "method": "OPTIONS",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "optionsScript"
+            }
+          },
+          {
+            "path": "/world-view/config",
+            "method": "GET",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "getWorldViewConfig"
+            }
+          },
+          {
+            "path": "/world-view/sites",
+            "method": "OPTIONS",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "optionsScript"
+            }
+          },
+          {
+            "path": "/world-view/sites",
+            "method": "GET",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "listSites"
+            }
+          },
+          {
+            "path": "/world-view/sites",
+            "method": "POST",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "createSite"
+            }
+          },
+          {
+            "path": "/world-view/sites/:siteid",
+            "method": "OPTIONS",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "optionsScript"
+            }
+          },
+          {
+            "path": "/world-view/sites/:siteid",
+            "method": "PUT",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "updateSite"
+            }
+          },
+          {
+            "path": "/world-view/sites/:siteid",
+            "method": "DELETE",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "deleteSite"
+            }
+          },
+          {
+            "path": "/world-view/users",
+            "method": "OPTIONS",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "optionsScript"
+            }
+          },
+          {
+            "path": "/world-view/users",
+            "method": "GET",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "listUsers"
+            }
+          },
+          {
+            "path": "/world-view/users",
+            "method": "POST",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "addUser"
+            }
+          },
+          {
+            "path": "/world-view/users/:userid",
+            "method": "OPTIONS",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "optionsScript"
+            }
+          },
+          {
+            "path": "/world-view/users/:userid",
+            "method": "DELETE",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "removeUser"
+            }
+          },
+          {
+            "path": "/world-view/invites",
+            "method": "OPTIONS",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "optionsScript"
+            }
+          },
+          {
+            "path": "/world-view/invites",
+            "method": "POST",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "inviteUser"
+            }
+          },
+          {
+            "path": "/world-view/invites/:inviteid",
+            "method": "OPTIONS",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "optionsScript"
+            }
+          },
+          {
+            "path": "/world-view/invites/:inviteid",
+            "method": "DELETE",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "cancelInvite"
+            }
+          },
+          {
+            "path": "/world-view/aircraft",
+            "method": "OPTIONS",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "optionsScript"
+            }
+          },
+          {
+            "path": "/world-view/aircraft",
+            "method": "GET",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "listAircraft"
+            }
+          },
+          {
+            "path": "/world-view/space",
+            "method": "OPTIONS",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "optionsScript"
+            }
+          },
+          {
+            "path": "/world-view/space",
+            "method": "GET",
+            "script": {
+              "_userType": "omapi-script",
+              "_scriptName": "listSpace"
+            }
+          }
+        ]
+      }
+    },
+    "schema_version": 2,
+    "settings": {
+      "apiConfig": true
+    }
+  }
+]

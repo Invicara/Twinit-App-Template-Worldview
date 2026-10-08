@@ -1,0 +1,17 @@
+{
+  "_name": "FetchSpaceCatalog",
+  "_description": "Fetch CelesTrak stations GP data into the Space Catalog every 2 hours at :05 UTC",
+  "_userType": "world_view_space",
+  "_timeoutSeconds": 120,
+  "_taskDefs": [
+    {
+      "_name": "fetch_space_catalog",
+      "_type": "SCRIPT_EXECUTION",
+      "_sequenceno": 1,
+      "_inputParams": {
+        "_userType": "workflow-script",
+        "_scriptName": "fetchSpaceCatalog"
+      }
+    }
+  ]
+}
